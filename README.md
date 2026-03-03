@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **chua333/chua333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,13 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi, I'm Boon Chong 👋
+## Hi, I'm Boon Chong 👋
 
 IT Ops at **Shenzhen Farben Information** — I like building things on the side and hosting them myself.
 
 ---
 
-## 🛠 Skills
+### 🛠 Skills
 
 **Languages**
 
@@ -41,9 +39,9 @@ IT Ops at **Shenzhen Farben Information** — I like building things on the side
 
 ---
 
-## 🚀 Projects
+### 🚀 Projects
 
-### [chua333.net](https://chua333.net) — Personal Website
+#### [chua333.net](https://chua333.net) — Personal Website
 My self-hosted personal website, built from scratch and running on my own infrastructure.
 - **Backend**: Python + Flask, served via Gunicorn behind Nginx
 - **Blog**: Markdown-based posts synced to PostgreSQL via a custom CLI sync script
@@ -52,7 +50,7 @@ My self-hosted personal website, built from scratch and running on my own infras
 
 ---
 
-## ✍️ Blog
+### ✍️ Blog
 
 I write about tech, self-hosting, and things I'm learning.
 
@@ -60,7 +58,7 @@ I write about tech, self-hosting, and things I'm learning.
 
 ---
 
-## 📚 Currently Reading
+### 📚 Currently Reading
 
 - *Rethinking Ourselves: Justice, Reform and Ignorance in Postnormal Times* — Anwar Ibrahim
 - *The Three-Body Problem* — Liu Cixin
@@ -68,7 +66,7 @@ I write about tech, self-hosting, and things I'm learning.
 
 ---
 
-## 🔗 Find me
+### 🔗 Find me
 
 [![Website](https://img.shields.io/badge/chua333.net-000000?style=flat&logo=google-chrome&logoColor=white)](https://chua333.net)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chua-boon-chong/)
