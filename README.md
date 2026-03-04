@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## Hi, I'm Boon Chong 👋
 
-IT Ops at **Shenzhen Farben Information** — I like building things on the side and hosting them myself.
+IT Ops at ![**Shenzhen Farben Information**](https://www.farbeninfo.com/) — I like building things on the side and hosting them myself.
 
 ---
 
