@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 
 ## Hi, I'm Boon Chong 👋
 
-IT Ops at [Shenzhen Farben Information](https://www.farbeninfo.com/) — I like building things on the side and hosting them myself.
+AI Enthusiast, waiting for the RAMpocalypse to finally be over and build myself a server.
+
+In the meantime, why don't you explore some of the interesting things about me down below.
 
 ---
 
@@ -39,7 +41,7 @@ IT Ops at [Shenzhen Farben Information](https://www.farbeninfo.com/) — I like 
 
 ---
 
-### 🚀 Projects
+### Projects
 
 #### [chua333.net](https://chua333.net) — Personal Website
 My self-hosted personal website, built from scratch and running on my own infrastructure.
@@ -50,15 +52,15 @@ My self-hosted personal website, built from scratch and running on my own infras
 
 ---
 
-### ✍️ Blog
+### Blog
 
 I write about tech, self-hosting, and things I'm learning.
 
-👉 [chua333.net/blog](https://chua333.net/blog)
+Click here ->: [chua333.net/blog](https://chua333.net/blog)
 
 ---
 
-### 📚 Currently Reading
+### Currently Reading
 
 - *Rethinking Ourselves: Justice, Reform and Ignorance in Postnormal Times* — Anwar Ibrahim
 - *The Three-Body Problem* — Liu Cixin
@@ -66,7 +68,7 @@ I write about tech, self-hosting, and things I'm learning.
 
 ---
 
-### 🔗 Find me
+### Find me
 
 [![Website](https://img.shields.io/badge/chua333.net-000000?style=flat&logo=google-chrome&logoColor=white)](https://chua333.net)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chua-boon-chong/)
